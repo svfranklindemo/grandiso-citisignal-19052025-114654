@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/grandiso/grandiso-2025-5-19-8-46-39/:/",
+      "/content/grandiso/grandiso-2025-5-19-8-46-39/configuration:/.helix/config.json",
+      "/content/grandiso/grandiso-2025-5-19-8-46-39/metadata:/metadata.json",
+      "/content/grandiso/grandiso-2025-5-19-8-46-39/configs:/configs.json",
+      "/content/grandiso/grandiso-2025-5-19-8-46-39/configs-stage:/configs-stage.json",
+      "/content/grandiso/grandiso-2025-5-19-8-46-39/configs-dev:/configs-dev.json",
+      "/content/grandiso/grandiso-2025-5-19-8-46-39/redirects:/redirects.json",
+      "/content/grandiso/grandiso-2025-5-19-8-46-39/placeholders:/placeholders.json",
+      "/content/grandiso/grandiso-2025-5-19-8-46-39/products/recommended-products:/products/recommended-products.json",
+      "/content/grandiso/grandiso-2025-5-19-8-46-39/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/grandiso/grandiso-2025-5-19-8-46-39/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/grandiso/grandiso-2025-5-19-8-46-39",
       "/content/dam/citisignal/images/products/"
     ]
 }
